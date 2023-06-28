@@ -1,1 +1,16 @@
-{}
+{
+    "Test_Flow": {
+        "projectName": "Test_Flow",
+        "description": "First test project for jans",
+        "type": "community",
+        "author": "AmanNegi144",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/AmanNegi144/AgamaLabs",
+        "githubUri": "https://github.com/AmanNegi144/AgamaLabs",
+        "license": "MIT",
+        "lastUpdated": "1687976570109",
+        "tags": [
+            "jans"
+        ]
+    }
+}
